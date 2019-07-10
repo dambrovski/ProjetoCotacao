@@ -1,0 +1,35 @@
+﻿@model ProjetoCotacao2.Models.Categoria
+
+
+@{
+    ViewBag.Title = "Detalhes";
+}
+
+<h2>Detalhes da Categoria</h2>
+
+<div>
+    <h4>Categoria</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Descricao)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Descricao)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Edit", new { id = Model.idCategoria}) |
+    @Html.ActionLink("Voltar para a lista", "Index")
+</p>

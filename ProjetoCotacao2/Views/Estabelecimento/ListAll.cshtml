@@ -1,0 +1,43 @@
+﻿@model List<ProjetoCotacao2.Models.Estabelecimento>
+
+@{
+    ViewBag.Title = "Estabelecimentos";
+}
+
+<h2>Lista de todos Estabelecimentos Cadastrados No Sistema</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            Id Estabelecimento:
+        </th>
+        <th>
+            Nome Estabelecimento:
+        </th>
+        <th>
+            Cidade:
+        </th>
+        <th>
+            Funções:
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (ProjetoCotacao2.Models.Estabelecimento lista in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => lista.idEstabelecimento)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => lista.nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => lista.cidade)
+            </td>
+            <td>
+                @Html.ActionLink("Ver Mais Detalhes", "Details", new { id = lista.idEstabelecimento }, new { @class = "btn btn-light" }) 
+            </td>
+        </tr>
+    }
+</table>

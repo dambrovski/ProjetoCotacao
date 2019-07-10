@@ -1,0 +1,44 @@
+﻿@model List<ProjetoCotacao2.Models.Alimento>
+
+@{
+    ViewBag.Title = "Alimentos";
+}
+
+<h2 class="text-center">Alimentos Cadastrados do Estabelecimento</h2>
+
+<p>
+    @Html.ActionLink("Cadastrar novo alimento", "Create", new { area = "" }, new { @class = "btn btn-primary btn-lg" })
+    
+</p>
+<table class="table">
+    <tr>
+        <th>
+           Nome: 
+        </th>
+        <th>
+            Preço: 
+        </th>
+        <th>
+            Funções:
+        </th>
+        <th></th>
+    </tr>
+
+        @foreach (ProjetoCotacao2.Models.Alimento alimento in Model)
+        {
+        <tr>
+            <td>
+                @alimento.nome.ToUpper()
+            </td>
+            <td>
+                @alimento.preco.ToString("C2")
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "Alterar", new { id = alimento.idAlimento }, new { @class = "btn btn-light" }) |
+                @Html.ActionLink("Detalhes", "Details", new { id = alimento.idAlimento }, new { @class = "btn btn-light" }) |
+                @Html.ActionLink("Remover", "Remover", new { id = alimento.idAlimento }, new { @class = "btn btn-light" }) 
+            </td>
+        </tr>
+    }
+
+</table>

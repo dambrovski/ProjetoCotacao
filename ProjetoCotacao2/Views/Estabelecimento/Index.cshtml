@@ -1,0 +1,46 @@
+﻿@model IEnumerable<ProjetoCotacao2.Models.Estabelecimento>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2 class="text-center">Listar Estabelecimentos</h2>
+
+<p>
+
+    @Html.ActionLink("Cadastrar novo Estabelecimento", "Create", new { area = "" }, new { @class = "btn btn-primary btn-lg" })
+    
+</p> 
+<table class="table">
+    <tr>
+        <th>
+            Nome: 
+        </th>
+        <th>
+            Cidade:
+        </th>
+        <th>
+            Funções:
+        </th>
+        <th></th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cidade)
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "Edit", new { id = item.idEstabelecimento },new { @class = "btn btn-light"}) |
+                @Html.ActionLink("Detalhes", "Details", new { id = item.idEstabelecimento }, new { @class = "btn btn-light" }) |
+                @Html.ActionLink("Deletar", "Remover", new { id = item.idEstabelecimento }, new { @class = "btn btn-light" })
+            </td>
+            <td></td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,1655 @@
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\ApplicationInsights.config
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\csc.exe
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\System.Collections.Immutable.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\vbc.exe
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.dll.config
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Web.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.Web.Infrastructure.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Helpers.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Mvc.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Razor.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Razor.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Web.xml
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.xml
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.xml
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Razor.xml
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.xml
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.xml
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Razor.xml
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Helpers.xml
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Mvc.xml
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.pdb
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\ApplicationInsights.config
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\csc.exe
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\vbc.exe
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.dll.config
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.dll
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.pdb
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Web.dll
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Helpers.dll
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Mvc.dll
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Razor.dll
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.dll
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Razor.dll
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Web.xml
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Razor.xml
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.xml
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Razor.xml
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Helpers.xml
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Mvc.xml
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csprojResolveAssemblyReference.cache
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.dll
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.pdb
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.dll
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.SqlServer.dll
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.xml
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.SqlServer.xml
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.CriarBase.resources
+C:\Users\Gian\Documents\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\ApplicationInsights.config
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\csc.exe
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\vbc.exe
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.dll.config
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.pdb
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Web.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Helpers.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Mvc.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Razor.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Razor.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Web.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Razor.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Razor.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Helpers.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Mvc.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.pdb
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.CriarBase.resources
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csproj.GenerateResource.Cache
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\ApplicationInsights.config
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\csc.exe
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\vbc.exe
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.dll.config
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.dll
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.pdb
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.dll
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.SqlServer.dll
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Web.dll
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Helpers.dll
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Mvc.dll
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Razor.dll
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.dll
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Razor.dll
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.xml
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.SqlServer.xml
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Web.xml
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Razor.xml
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.xml
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Razor.xml
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Helpers.xml
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Mvc.xml
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csprojResolveAssemblyReference.cache
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.dll
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.pdb
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.update1.resources
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csproj.GenerateResource.Cache
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.update2.resources
+C:\Users\Gian\Music\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.update3.resources
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\ApplicationInsights.config
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\csc.exe
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\vbc.exe
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.dll.config
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.dll
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.pdb
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.dll
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.SqlServer.dll
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Web.dll
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Helpers.dll
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Mvc.dll
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Razor.dll
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.dll
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Razor.dll
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.xml
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.SqlServer.xml
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Web.xml
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Razor.xml
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.xml
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Razor.xml
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Helpers.xml
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Mvc.xml
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csprojResolveAssemblyReference.cache
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.update1.resources
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.update2.resources
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.update3.resources
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csproj.GenerateResource.Cache
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.dll
+C:\Users\Gian\Desktop\ProjetoCotacao3\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.pdb
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csprojResolveAssemblyReference.cache
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.dll
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.pdb
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\ApplicationInsights.config
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\csc.exe
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\vbc.exe
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.dll.config
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.dll
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.pdb
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.dll
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.SqlServer.dll
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Web.dll
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Helpers.dll
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Mvc.dll
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Razor.dll
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.dll
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Razor.dll
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.xml
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.SqlServer.xml
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Web.xml
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Razor.xml
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.xml
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Razor.xml
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Helpers.xml
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Mvc.xml
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.CriarBase.resources
+C:\Users\ton\Downloads\ProjetoCotacao4\ProjetoCotacao4\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csproj.GenerateResource.Cache
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\ApplicationInsights.config
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\csc.exe
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\vbc.exe
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.dll.config
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.dll
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.pdb
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.dll
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.SqlServer.dll
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Web.dll
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Helpers.dll
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Mvc.dll
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Razor.dll
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.dll
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Razor.dll
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.xml
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.SqlServer.xml
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Web.xml
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Razor.xml
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.xml
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Razor.xml
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Helpers.xml
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Mvc.xml
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csprojResolveAssemblyReference.cache
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.dll
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.pdb
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.CriarBase.resources
+C:\Users\Gian\Downloads\ProjetoCotacao5\ProjetoCotacao5\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\ApplicationInsights.config
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\csc.exe
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\vbc.exe
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.dll.config
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.pdb
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Web.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Helpers.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Mvc.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Razor.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Razor.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Web.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Razor.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Razor.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Helpers.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Mvc.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao6\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.pdb
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\ApplicationInsights.config
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\csc.exe
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\vbc.exe
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.dll.config
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.dll
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.pdb
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.dll
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.SqlServer.dll
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Web.dll
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Helpers.dll
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Mvc.dll
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Razor.dll
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.dll
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Razor.dll
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.xml
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.SqlServer.xml
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Web.xml
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Razor.xml
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.xml
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Razor.xml
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Helpers.xml
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Mvc.xml
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csprojResolveAssemblyReference.cache
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.dll
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.pdb
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.cb.resources
+C:\Users\Gian\Desktop\ProjetoCotacao7\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csproj.GenerateResource.Cache
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\ApplicationInsights.config
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\csc.exe
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\vbc.exe
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.dll.config
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.dll
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.pdb
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.dll
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.SqlServer.dll
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Web.dll
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Helpers.dll
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Mvc.dll
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Razor.dll
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.dll
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Razor.dll
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.xml
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.SqlServer.xml
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Web.xml
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Razor.xml
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.xml
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Razor.xml
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Helpers.xml
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Mvc.xml
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csprojResolveAssemblyReference.cache
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.dll
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.pdb
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.ad.resources
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csproj.GenerateResource.Cache
+C:\Users\Gian\Desktop\ProjetoCotacao8\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.ads.resources
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\ApplicationInsights.config
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\csc.exe
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\vbc.exe
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.dll.config
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.dll
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.pdb
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.dll
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.SqlServer.dll
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Web.dll
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Helpers.dll
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Mvc.dll
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Razor.dll
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.dll
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Razor.dll
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.xml
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.SqlServer.xml
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Web.xml
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Razor.xml
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.xml
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Razor.xml
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Helpers.xml
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Mvc.xml
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csprojResolveAssemblyReference.cache
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.dll
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.pdb
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.criabase.resources
+C:\Users\ton\Desktop\ProjetoCotacao9\ProjetoCotacao9\ProjetoCotacao8\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\ApplicationInsights.config
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\csc.exe
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\vbc.exe
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.dll.config
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.pdb
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Web.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Helpers.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Mvc.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Razor.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Razor.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Web.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Razor.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Razor.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Helpers.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Mvc.xml
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.criabase.resources
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.dll
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.pdb
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.adasda.resources
+C:\Users\Aluno\Desktop\ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.adasdafd.resources
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\ApplicationInsights.config
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\csc.exe
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\vbc.exe
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.dll.config
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.pdb
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.SqlServer.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Web.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Helpers.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Mvc.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Razor.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Razor.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.SqlServer.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Web.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Razor.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Razor.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Helpers.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Mvc.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csprojResolveAssemblyReference.cache
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.pdb
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.criabase.resources
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csproj.GenerateResource.Cache
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\ApplicationInsights.config
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\csc.exe
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\vbc.exe
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.dll.config
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\ProjetoCotacao2.pdb
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Web.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Helpers.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Mvc.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Razor.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Razor.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.xml
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.Web.xml
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Razor.xml
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.xml
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Webpages.Razor.xml
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Helpers.xml
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\bin\System.Web.Mvc.xml
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.criabase.resources
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csproj.GenerateResource.Cache
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotacao2\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.pdb
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\ApplicationInsights.config
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\roslyn\csc.exe
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\roslyn\vbc.exe
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\ProjetoCotacao2.dll.config
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\ProjetoCotacao2.dll
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\ProjetoCotacao2.pdb
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\EntityFramework.dll
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\EntityFramework.SqlServer.dll
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\Microsoft.AI.Web.dll
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\System.Web.Helpers.dll
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\System.Web.Mvc.dll
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\System.Web.Razor.dll
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\System.Web.Webpages.dll
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\System.Web.Webpages.Razor.dll
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\EntityFramework.xml
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\EntityFramework.SqlServer.xml
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\Microsoft.AI.Web.xml
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\System.Web.Razor.xml
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\System.Web.Webpages.xml
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\System.Web.Webpages.Razor.xml
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\System.Web.Helpers.xml
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\bin\System.Web.Mvc.xml
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csprojResolveAssemblyReference.cache
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.criabase.resources
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csproj.GenerateResource.Cache
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.dll
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.pdb
+C:\Users\Gian\Desktop\New folder\Remaster ProjetoCotacao4\Remaster ProjetoCotacao4\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.asd.resources
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\ApplicationInsights.config
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\roslyn\csc.exe
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\roslyn\vbc.exe
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\ProjetoCotacao2.dll.config
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\ProjetoCotacao2.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\ProjetoCotacao2.pdb
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\EntityFramework.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\EntityFramework.SqlServer.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\Microsoft.AI.Web.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\System.Web.Helpers.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\System.Web.Mvc.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\System.Web.Razor.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\System.Web.Webpages.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\System.Web.Webpages.Razor.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\EntityFramework.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\EntityFramework.SqlServer.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\Microsoft.AI.Web.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\System.Web.Razor.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\System.Web.Webpages.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\System.Web.Webpages.Razor.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\System.Web.Helpers.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\bin\System.Web.Mvc.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csprojResolveAssemblyReference.cache
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.criabase.resources
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.asd.resources
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csproj.GenerateResource.Cache
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.pdb
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao5\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.novo.resources
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\ApplicationInsights.config
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\roslyn\csc.exe
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\roslyn\vbc.exe
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\ProjetoCotacao2.dll.config
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\ProjetoCotacao2.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\ProjetoCotacao2.pdb
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\EntityFramework.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\Microsoft.AI.Web.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\System.Web.Helpers.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\System.Web.Mvc.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\System.Web.Razor.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\System.Web.Webpages.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\System.Web.Webpages.Razor.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\EntityFramework.xml
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\Microsoft.AI.Web.xml
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\System.Web.Razor.xml
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\System.Web.Webpages.xml
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\System.Web.Webpages.Razor.xml
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\System.Web.Helpers.xml
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\bin\System.Web.Mvc.xml
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.pdb
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.cebola.resources
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao6\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csproj.GenerateResource.Cache
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\ApplicationInsights.config
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\roslyn\csc.exe
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\roslyn\vbc.exe
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\ProjetoCotacao2.dll.config
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\ProjetoCotacao2.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\ProjetoCotacao2.pdb
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\EntityFramework.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\EntityFramework.SqlServer.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\Microsoft.AI.Web.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\System.Web.Helpers.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\System.Web.Mvc.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\System.Web.Razor.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\System.Web.Webpages.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\System.Web.Webpages.Razor.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\EntityFramework.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\EntityFramework.SqlServer.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\Microsoft.AI.Web.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\System.Web.Razor.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\System.Web.Webpages.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\System.Web.Webpages.Razor.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\System.Web.Helpers.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\System.Web.Mvc.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csprojResolveAssemblyReference.cache
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.pdb
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.cb.resources
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao7\Remaster ProjetoCotacao7\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csproj.GenerateResource.Cache
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\ApplicationInsights.config
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\roslyn\csc.exe
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\roslyn\vbc.exe
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\ProjetoCotacao2.dll.config
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\ProjetoCotacao2.dll
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\ProjetoCotacao2.pdb
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\EntityFramework.dll
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\EntityFramework.SqlServer.dll
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\Microsoft.AI.Web.dll
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\System.Web.Helpers.dll
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\System.Web.Mvc.dll
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\System.Web.Razor.dll
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\System.Web.Webpages.dll
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\System.Web.Webpages.Razor.dll
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\EntityFramework.xml
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\EntityFramework.SqlServer.xml
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\Microsoft.AI.Web.xml
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\System.Web.Razor.xml
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\System.Web.Webpages.xml
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\System.Web.Webpages.Razor.xml
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\System.Web.Helpers.xml
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\System.Web.Mvc.xml
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csprojResolveAssemblyReference.cache
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.dll
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.pdb
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\Newtonsoft.Json.dll
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\bin\Newtonsoft.Json.xml
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.criabase.resources
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csproj.GenerateResource.Cache
+C:\Users\Amanda\Desktop\projeto\vai safada 8\Remaster ProjetoCotacao7\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.criabase2.resources
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\ApplicationInsights.config
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\roslyn\csc.exe
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\roslyn\vbc.exe
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\ProjetoCotacao2.dll.config
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\ProjetoCotacao2.dll
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\ProjetoCotacao2.pdb
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\EntityFramework.dll
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\EntityFramework.SqlServer.dll
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\Microsoft.AI.Web.dll
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\Newtonsoft.Json.dll
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\System.Web.Helpers.dll
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\System.Web.Mvc.dll
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\System.Web.Razor.dll
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\System.Web.Webpages.dll
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\System.Web.Webpages.Razor.dll
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\EntityFramework.xml
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\EntityFramework.SqlServer.xml
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\Microsoft.AI.Web.xml
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\Newtonsoft.Json.xml
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\System.Web.Razor.xml
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\System.Web.Webpages.xml
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\System.Web.Webpages.Razor.xml
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\System.Web.Helpers.xml
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\bin\System.Web.Mvc.xml
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csprojResolveAssemblyReference.cache
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.criabase.resources
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.criabase2.resources
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csproj.GenerateResource.Cache
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.dll
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.pdb
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.novocep.resources
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.novocep2.resources
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Remaster ProjetoCotacao8\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.novocep3.resources
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\ApplicationInsights.config
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\roslyn\csc.exe
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\roslyn\vbc.exe
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\ProjetoCotacao2.dll.config
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\ProjetoCotacao2.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\ProjetoCotacao2.pdb
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\EntityFramework.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\Microsoft.AI.Web.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\Newtonsoft.Json.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\System.Web.Helpers.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\System.Web.Mvc.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\System.Web.Razor.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\System.Web.Webpages.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\System.Web.Webpages.Razor.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\EntityFramework.xml
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\Microsoft.AI.Web.xml
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\Newtonsoft.Json.xml
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\System.Web.Razor.xml
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\System.Web.Webpages.xml
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\System.Web.Webpages.Razor.xml
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\System.Web.Helpers.xml
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\System.Web.Mvc.xml
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.criabase.resources
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.criabase2.resources
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.novocep.resources
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.novocep2.resources
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.novocep3.resources
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csproj.GenerateResource.Cache
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.dll
+C:\Users\Aluno\Documents\Remaster ProjetoCotacao8.1\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.pdb
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\ApplicationInsights.config
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\roslyn\csc.exe
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\roslyn\vbc.exe
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\ProjetoCotacao2.dll.config
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\ProjetoCotacao2.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\ProjetoCotacao2.pdb
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\EntityFramework.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\EntityFramework.SqlServer.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\Microsoft.AI.Web.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\Newtonsoft.Json.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\System.Web.Helpers.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\System.Web.Mvc.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\System.Web.Razor.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\System.Web.Webpages.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\System.Web.Webpages.Razor.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\EntityFramework.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\EntityFramework.SqlServer.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\Microsoft.AI.Web.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\Newtonsoft.Json.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\System.Web.Razor.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\System.Web.Webpages.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\System.Web.Webpages.Razor.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\System.Web.Helpers.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\bin\System.Web.Mvc.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csprojResolveAssemblyReference.cache
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.pdb
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.cb.resources
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csproj.GenerateResource.Cache
+C:\Users\Gian\Desktop\Remaster ProjetoCotacao9\Remaster ProjetoCotacao8.1\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.cb2.resources
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\ApplicationInsights.config
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\roslyn\csc.exe
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\roslyn\vbc.exe
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\ProjetoCotacao2.dll.config
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\ProjetoCotacao2.dll
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\ProjetoCotacao2.pdb
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\EntityFramework.dll
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\Microsoft.AI.Web.dll
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\Newtonsoft.Json.dll
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\System.Web.Helpers.dll
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\System.Web.Mvc.dll
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\System.Web.Razor.dll
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\System.Web.Webpages.dll
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\System.Web.Webpages.Razor.dll
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\EntityFramework.xml
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\Microsoft.AI.Web.xml
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\Newtonsoft.Json.xml
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\System.Web.Razor.xml
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\System.Web.Webpages.xml
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\System.Web.Webpages.Razor.xml
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\System.Web.Helpers.xml
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\System.Web.Mvc.xml
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.cb.resources
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.cb2.resources
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.dll
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.pdb
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\System.Net.Http.Formatting.dll
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\System.Web.Http.dll
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\System.Web.Http.WebHost.dll
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\System.Net.Http.Formatting.xml
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\System.Web.Http.xml
+C:\Users\Aluno\Desktop\Remaster ProjetoCotaca010\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\System.Web.Http.WebHost.xml
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\ApplicationInsights.config
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\roslyn\csc.exe
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\roslyn\vbc.exe
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\ProjetoCotacao2.dll.config
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\ProjetoCotacao2.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\ProjetoCotacao2.pdb
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\EntityFramework.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\Microsoft.AI.Web.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\Newtonsoft.Json.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\System.Net.Http.Formatting.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\System.Web.Helpers.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\System.Web.Http.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\System.Web.Http.WebHost.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\System.Web.Mvc.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\System.Web.Razor.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\System.Web.Webpages.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\System.Web.Webpages.Razor.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\EntityFramework.xml
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\Microsoft.AI.Web.xml
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\Newtonsoft.Json.xml
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\System.Net.Http.Formatting.xml
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\System.Web.Http.xml
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\System.Web.Http.WebHost.xml
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\System.Web.Razor.xml
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\System.Web.Webpages.xml
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\System.Web.Webpages.Razor.xml
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\System.Web.Helpers.xml
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\bin\System.Web.Mvc.xml
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.cb.resources
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.cb2.resources
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csproj.GenerateResource.Cache
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.dll
+C:\Users\Aluno\Downloads\Remaster ProjetoCotaca011\Remaster ProjetoCotaca011\Remaster ProjetoCotaca010\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.pdb
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\ApplicationInsights.config
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\roslyn\csc.exe
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\roslyn\vbc.exe
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\ProjetoCotacao2.dll.config
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\ProjetoCotacao2.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\ProjetoCotacao2.pdb
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\EntityFramework.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\EntityFramework.SqlServer.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.AI.Web.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Newtonsoft.Json.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Net.Http.Formatting.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Helpers.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Http.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Http.WebHost.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Mvc.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Razor.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Webpages.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Webpages.Razor.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\EntityFramework.xml
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\EntityFramework.SqlServer.xml
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.AI.Web.xml
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Newtonsoft.Json.xml
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Net.Http.Formatting.xml
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Http.xml
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Http.WebHost.xml
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Razor.xml
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Webpages.xml
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Webpages.Razor.xml
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Helpers.xml
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Mvc.xml
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csprojResolveAssemblyReference.cache
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.cb.resources
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.cb2.resources
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csproj.GenerateResource.Cache
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.pdb
+C:\Users\ton\Desktop\Remaster ProjetoCotaca012-1\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.NEW.resources
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\ApplicationInsights.config
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\roslyn\csc.exe
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\roslyn\vbc.exe
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\ProjetoCotacao2.dll.config
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\ProjetoCotacao2.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\ProjetoCotacao2.pdb
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\EntityFramework.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\EntityFramework.SqlServer.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.AI.Web.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Newtonsoft.Json.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Net.Http.Formatting.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Helpers.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Http.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Http.WebHost.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Mvc.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Razor.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Webpages.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Webpages.Razor.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\EntityFramework.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\EntityFramework.SqlServer.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.AI.Web.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Newtonsoft.Json.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Net.Http.Formatting.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Http.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Http.WebHost.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Razor.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Webpages.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Webpages.Razor.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Helpers.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Mvc.xml
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csprojResolveAssemblyReference.cache
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.dll
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.pdb
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.cb.resources
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csproj.GenerateResource.Cache
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.cb2.resources
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.cb3.resources
+C:\Users\Gian\Desktop\Remaster ProjetoCotaca012-1\Remaster ProjetoCotaca012-1\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.cb4.resources
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\ApplicationInsights.config
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\roslyn\csc.exe
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\roslyn\vbc.exe
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\ProjetoCotacao2.dll.config
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\ProjetoCotacao2.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\ProjetoCotacao2.pdb
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\EntityFramework.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\EntityFramework.SqlServer.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.AI.Web.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Newtonsoft.Json.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Net.Http.Formatting.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Helpers.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Http.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Http.WebHost.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Mvc.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Razor.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Webpages.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Webpages.Razor.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\EntityFramework.xml
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\EntityFramework.SqlServer.xml
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.AI.Web.xml
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\Newtonsoft.Json.xml
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Net.Http.Formatting.xml
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Http.xml
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Http.WebHost.xml
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Razor.xml
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Webpages.xml
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Webpages.Razor.xml
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Helpers.xml
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\bin\System.Web.Mvc.xml
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csprojResolveAssemblyReference.cache
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.cb.resources
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.cb2.resources
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.cb3.resources
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.cb4.resources
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csproj.GenerateResource.Cache
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.dll
+C:\Users\ton\Desktop\Remaster ProjetoCotaca013\Remaster ProjetoCotaca013\Remaster ProjetoCotaca012-1\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.pdb
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\ApplicationInsights.config
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\roslyn\csc.exe
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\roslyn\vbc.exe
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\ProjetoCotacao2.dll.config
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\ProjetoCotacao2.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\ProjetoCotacao2.pdb
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\EntityFramework.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\EntityFramework.SqlServer.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\Microsoft.AI.Web.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\Newtonsoft.Json.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\System.Net.Http.Formatting.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\System.Web.Helpers.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\System.Web.Http.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\System.Web.Http.WebHost.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\System.Web.Mvc.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\System.Web.Razor.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\System.Web.Webpages.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\System.Web.Webpages.Razor.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\EntityFramework.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\EntityFramework.SqlServer.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\Microsoft.AI.Web.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\Newtonsoft.Json.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\System.Net.Http.Formatting.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\System.Web.Http.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\System.Web.Http.WebHost.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\System.Web.Razor.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\System.Web.Webpages.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\System.Web.Webpages.Razor.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\System.Web.Helpers.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\bin\System.Web.Mvc.xml
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csprojResolveAssemblyReference.cache
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.dll
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.pdb
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.Criabase.resources
+C:\Users\suporte99\Documents\Visual Studio 2015\Projects\RemasterProjeto014\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csproj.GenerateResource.Cache
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\ApplicationInsights.config
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\roslyn\csc.exe
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\roslyn\vbc.exe
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\ProjetoCotacao2.dll.config
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\ProjetoCotacao2.dll
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\ProjetoCotacao2.pdb
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\EntityFramework.dll
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\EntityFramework.SqlServer.dll
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\Microsoft.AI.Web.dll
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\Newtonsoft.Json.dll
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\System.Net.Http.Formatting.dll
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\System.Web.Helpers.dll
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\System.Web.Http.dll
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\System.Web.Http.WebHost.dll
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\System.Web.Mvc.dll
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\System.Web.Razor.dll
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\System.Web.Webpages.dll
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\System.Web.Webpages.Razor.dll
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\EntityFramework.xml
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\EntityFramework.SqlServer.xml
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\Microsoft.AI.Web.xml
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\Newtonsoft.Json.xml
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\System.Net.Http.Formatting.xml
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\System.Web.Http.xml
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\System.Web.Http.WebHost.xml
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\System.Web.Razor.xml
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\System.Web.Webpages.xml
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\System.Web.Webpages.Razor.xml
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\System.Web.Helpers.xml
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\bin\System.Web.Mvc.xml
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csprojResolveAssemblyReference.cache
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.Criabase.resources
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csproj.GenerateResource.Cache
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.dll
+C:\Users\suporte99\Desktop\ProjetoCotacaoFinal\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.pdb
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\ApplicationInsights.config
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\roslyn\csc.exe
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\roslyn\vbc.exe
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\ProjetoCotacao2.dll.config
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\ProjetoCotacao2.dll
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\ProjetoCotacao2.pdb
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\EntityFramework.dll
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\Microsoft.AI.Web.dll
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\Newtonsoft.Json.dll
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\System.Net.Http.Formatting.dll
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\System.Web.Helpers.dll
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\System.Web.Http.dll
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\System.Web.Http.WebHost.dll
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\System.Web.Mvc.dll
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\System.Web.Razor.dll
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\System.Web.Webpages.dll
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\System.Web.Webpages.Razor.dll
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\EntityFramework.xml
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\Microsoft.AI.Web.xml
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\Newtonsoft.Json.xml
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\System.Net.Http.Formatting.xml
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\System.Web.Http.xml
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\System.Web.Http.WebHost.xml
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\System.Web.Razor.xml
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\System.Web.Webpages.xml
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\System.Web.Webpages.Razor.xml
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\System.Web.Helpers.xml
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\bin\System.Web.Mvc.xml
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.Criabase.resources
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.csproj.GenerateResource.Cache
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.dll
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.pdb
+C:\Users\Aluno\Documents\ProjetoCotacaoFinal-MASTER\ProjetoCotacao2\obj\Debug\ProjetoCotacao2.Migrations.camponovo.resources

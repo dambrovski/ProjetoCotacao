@@ -1,0 +1,188 @@
+﻿@model ProjetoCotacao2.Models.UsuarioCliente
+
+@{
+    ViewBag.Title = "Create";
+    ViewBag.Nome = User.Identity;
+    string email = ViewBag.Email;
+}
+
+<h2 class="headertekst">Cadastro de Usuario</h2>
+
+
+@using (Html.BeginForm("Create", "UsuarioCliente", FormMethod.Post, new { @class = "form-horizontal", enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+
+    <fieldset>
+        <legend>Dados do Endereço</legend>
+        <div id="Cep" class="form-group">
+            @Html.LabelFor(model => model.Cep, new { @class = "control-label col-sm-2" })
+            <div class="col-sm-10">
+                @Html.TextBoxFor(model => model.Cep,
+                    new
+                    {
+                        @class = "form-control",
+                        @placeholder = "Digite o CEP do usuário"
+                    })
+            </div>
+        </div>
+    
+        <div class="form-group">
+            <div class="col-sm-offset-2 col-sm-10">
+                <input class="btn btn-primary" type="submit"
+                       value="Consultar" formaction="ConsultarCep"
+                       formmethod="post" />
+            </div>
+        </div>
+
+        <div id="Id" class="form-group">
+            @Html.LabelFor(model => model.id, new { @class = "control-label col-sm-2" })
+            <div class="col-sm-10">
+                @Html.TextBoxFor(model => model.id, new { @class = "form-control", @readonly = "" })
+            </div>
+        </div>
+
+        <div id="Logradouro" class="form-group">
+            @Html.LabelFor(model => model.Logradouro, new { @class = "control-label col-sm-2" })
+            <div class="col-sm-10">
+                @Html.TextBoxFor(model => model.Logradouro, new { @class = "form-control", @readonly = "" })
+            </div>
+        </div>
+
+        <div id="Localidade" class="form-group">
+            @Html.LabelFor(model => model.Localidade, new { @class = "control-label col-sm-2" })
+            <div class="col-sm-10">
+                @Html.TextBoxFor(model => model.Localidade, new { @class = "form-control", @readonly = "" })
+            </div>
+        </div>
+
+        <div id="UF" class="form-group">
+            @Html.LabelFor(model => model.UF, new { @class = "control-label col-sm-2" })
+            <div class="col-sm-10">
+                @Html.TextBoxFor(model => model.UF, new { @class = "form-control", @readonly = "" })
+            </div>
+        </div>
+    </fieldset>
+
+
+
+
+
+
+    <fieldset id="dadosPessoais">
+        <div class="form-horizontal">
+
+            <hr />
+
+
+            @*DIGITAR CAMPO DE EMAIL:*@
+
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <div class="form-group">
+                @Html.LabelFor(model => model.Email_Cliente, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Email_Cliente, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Email_Cliente, "", new { @class = "text-danger" })
+
+                    <span style="color:red">
+                        @{if (email != null)
+                            {@Html.Raw(ViewBag.Email);
+                            } }
+                    </span>
+                </div>
+            </div>
+
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <div class="form-group">
+                @Html.LabelFor(model => model.Login, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Login, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Login, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            @*DIGITAR CAMPO DE SENHA:*@
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.SenhaCliente, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.SenhaCliente, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.SenhaCliente, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+
+
+
+            @*DIGITAR CAMPO DE CONFIRMAÇÃO DE SENHA:*@
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.ConfirmacaoSenha, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.ConfirmacaoSenha, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.ConfirmacaoSenha, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+
+
+
+            @*DIGITAR CAMPO DE CPF:*@
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.CPF_Cliente, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.CPF_Cliente, new { htmlAttributes = new { @class = "form-control", @placeholder = "Ex. 000.000.000-00" } })
+                    @Html.ValidationMessageFor(model => model.CPF_Cliente, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+
+            @*DIGITAR CAMPO DE NOME:*@
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Nome_Cliente, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Nome_Cliente, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Nome_Cliente, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Sobrenome, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Sobrenome, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Sobrenome, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+
+
+            @*DIGITAR CAMPO DE TELEFONE:*@
+            <div class="form-group">
+                @Html.LabelFor(model => model.Telefone_Cliente, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Telefone_Cliente, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Telefone_Cliente, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+
+
+
+
+            @*BOTÃO DE SUBMIT:*@
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Cadastrar" class="btn btn-success" />
+                    @Html.ActionLink("Voltar", "Login", "UsuarioCliente", new { @class = "btn btn-warning" })
+                </div>
+            </div>
+        </div>
+      </fieldset>
+        }
+
+        <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+        <script src="~/Scripts/jquery.validate.min.js"></script>
+        <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>

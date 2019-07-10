@@ -1,0 +1,100 @@
+﻿@using ProjetoCotacao2.Models
+@model Alimento
+
+
+@{
+    ViewBag.Title = "BuscaNome";
+    List<Alimento> alimentos = ViewBag.Alimento;
+}
+
+
+
+@using (Html.BeginForm("BuscaNome", "Alimento", FormMethod.Post))
+{
+    <div class="row">
+        <div class="col-md-12">
+            <fieldset>
+                <legend class="text-center">Buscar Produto Por Nome</legend>
+
+                <div id="Nome" class="form-group col-md-12">
+                    <div class="">
+                        @Html.TextBoxFor(model => model.nome, new { @class = "form-control", @placeholder = "Digite o Nome do Alimento:" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="col-sm-offset-2 col-sm-10">
+                        <input class="btn btn-primary" type="submit"
+                               value="Consultar">
+                    </div>
+                </div>
+            </fieldset>
+        </div>
+    </div>
+}
+
+@{
+    if (alimentos == null)
+    {
+
+    }
+    else
+    {
+        <table class="table table-hover table-striped" style="margin-bottom:40px">
+            <tr>
+                <th>Nome: </th>
+                <th>Preço: </th>
+                <th>Estabelecimento: </th>
+                <th>Operações: </th>
+            </tr>
+
+            @foreach (Alimento alimento in alimentos)
+            {
+                <tr>
+                    <td>
+                        @alimento.nome.ToUpper()
+                    </td>
+                    <td>
+                        @alimento.preco.ToString("C2")
+                    </td>
+                    <td>
+                        @{
+                            if (alimento.estabelecimento == null)
+                            {
+                                <b>Sem estabelecimento cadastrado</b>
+                            }
+                            else
+                            {
+                                @alimento.estabelecimento.nome.ToUpper()
+                            }
+
+                        }
+
+                    </td>
+                    <td>
+                        @Html.ActionLink("Adicionar", "AdicionarCotacao", "Alimento", new { id = alimento.idAlimento }, new { @class = "btn btn-success" })
+                    </td>
+                </tr>
+                            }
+        </table>
+                            }
+
+
+}
+
+@{
+    var teste = ProjetoCotacao2.DAL.AlimentoCotacaoDAO.TotalItensCarrinho();
+    if (teste == 0)
+    {
+
+        <p>0 -> Itens na sua Cotação </p>
+
+    }
+    else
+    {
+        <div class="">
+            @Html.ActionLink("Ir para Cotação (" + ProjetoCotacao2.DAL.AlimentoCotacaoDAO.TotalItensCarrinho() + ")", "CotacaoAlimento", "Alimento", new { @class = "btn btn-success" })
+        </div>
+
+    }
+}

@@ -1,0 +1,61 @@
+﻿@using ProjetoCotacao2.Models;
+@model Alimento
+
+@using (Html.BeginForm("Alterar", "Alimento", FormMethod.Post, new { @class = "form-horizontal" }))
+{
+    @Html.HiddenFor(model => model.idAlimento)
+    <fieldset>
+        <legend>Alterar Alimento</legend>
+        <div id="Id" class="form-group">
+            @Html.Label("ID", new { @class = "control-label col-sm-2" })
+            <div class="col-sm-10">
+                @Html.TextBoxFor(model => model.idAlimento , new { @class = "form-control", @placeholder = "Digite o nome do alimento.", @readonly = "" })
+            </div>
+        </div>
+        <div id="Nome" class="form-group">
+            @Html.Label("Nome", new { @class = "control-label col-sm-2" })
+            <div class="col-sm-10">
+                @Html.TextBoxFor(model => model.nome, new { @class = "form-control", @placeholder = "Digite o nome do alimento." })
+            </div>
+        </div>
+
+        <div id="preco" class="form-group">
+            @Html.Label("Preço", new { @class = "control-label col-sm-2" })
+            <div class="col-sm-10">
+                @Html.TextBoxFor(model => model.preco, new { @class = "form-control", @placeholder = "Digite o preço do alimento." })
+            </div>
+        </div>
+
+        <div id="quantidade" class="form-group">
+            @Html.Label("Quantidade", new { @class = "control-label col-sm-2" })
+            <div class="col-sm-10">
+                @Html.TextBoxFor(model => model.quantidade, new { @class = "form-control", @placeholder = "Digite a quantidade do alimento." })
+            </div>
+        </div>
+
+        <div id="Categoria" class="form-group">
+            @Html.Label("Categoria", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("Categorias", null,
+                    " Selecione uma Categoria ",
+                    new { @class = "form-control" })
+            </div>
+        </div>
+
+        <div id="Categoria" class="form-group">
+            @Html.Label("Estabelecimento", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("Estabelecimentos", null,
+                    " Selecione um Estabelecimento ",
+                    new { @class = "form-control" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-sm-offset-2 col-sm-10">
+                <input class="btn btn-primary" type="submit"
+                       value="Salvar" />
+            </div>
+        </div>
+    </fieldset>
+}

@@ -1,0 +1,89 @@
+﻿@model ProjetoCotacao2.Models.PrevisaoTempo
+
+@{
+    ViewBag.Title = "Consultar Previsão do Tempo";
+    ViewBag.Nome = User.Identity;
+
+}
+
+<h2 class="headertekst">Consultar Previsão do Tempo</h2>
+
+
+    @Html.AntiForgeryToken()
+
+
+    @using (Html.BeginForm("Create", "PrevisaoTempo", FormMethod.Post, new { @class = "form-horizontal", enctype = "multipart/form-data" }))
+    {
+        <fieldset>
+
+            <div id="Id" class="form-group">
+                @Html.LabelFor(model => model.name, new { @class = "control-label col-sm-2" })
+                <div class="col-sm-10">
+                    @Html.TextBoxFor(model => model.name,
+                 new
+                 {
+                     @class = "form-control",
+                     @placeholder = "Digite a Cidade."
+                 })
+                </div>
+            </div>
+
+
+
+            <div id="Estado" class="form-group">
+                @Html.LabelFor(model => model.state, new { @class = "control-label col-sm-2" })
+                <div class="col-sm-10">
+                    @Html.TextBoxFor(model => model.state,
+                 new
+                 {
+                     @class = "form-control",
+                     @placeholder = "Digite a Sigla do Estado."
+                 })
+                </div>
+            </div>
+
+
+            <div class="form-group">
+                <div class="col-sm-offset-2 col-sm-10">
+                    <input class="btn btn-primary" type="submit"
+                           value="Consultar" formaction="ConsultaClima"
+                           formmethod="post" />
+                </div>
+            </div>
+
+            <div id="Name" class="form-group">
+                @Html.LabelFor(model => model.name, new { @class = "control-label col-sm-2" })
+                <div class="col-sm-10">
+                    @Html.TextBoxFor(model => model.name, new { @class = "form-control", @readonly = "" })
+                </div>
+            </div>
+
+            <div id="State" class="form-group">
+                @Html.LabelFor(model => model.state, new { @class = "control-label col-sm-2" })
+                <div class="col-sm-10">
+                    @Html.TextBoxFor(model => model.state, new { @class = "form-control", @readonly = "" })
+                </div>
+            </div>
+
+
+            <div id="temperature" class="form-group">
+                @Html.LabelFor(model => model.data.temperature, new { @class = "control-label col-sm-2" })
+                <div class="col-sm-10">
+                    @Html.TextBoxFor(model => model.data.temperature, new { @class = "form-control", @readonly = "" })
+                </div>
+            </div>
+
+            <div id="condition" class="form-group">
+                @Html.LabelFor(model => model.data.condition, new { @class = "control-label col-sm-2" })
+                <div class="col-sm-10">
+                    @Html.TextBoxFor(model => model.data.condition, new { @class = "form-control", @readonly = "" })
+                </div>
+            </div>
+
+        </fieldset>
+    }
+
+
+        <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+        <script src="~/Scripts/jquery.validate.min.js"></script>
+        <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>

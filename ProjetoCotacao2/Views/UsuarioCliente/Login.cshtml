@@ -1,0 +1,44 @@
+﻿@model ProjetoCotacao2.Models.UsuarioCliente
+
+@{
+    ViewBag.Title = "Efetuar Login";
+}
+
+
+@using (Html.BeginForm("Login", "UsuarioCliente", FormMethod.Post))
+{
+
+    
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.Email_Cliente, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Email_Cliente, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Email_Cliente, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.SenhaCliente, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.SenhaCliente, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.SenhaCliente, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group ml-3">
+            
+      
+
+            <div class=" mt-3">
+                <input type="submit" value="Login" class="btn btn-success" />
+            </div>
+
+            
+        </div>
+        @Html.ActionLink("Cadastre-se Aqui!", "Create", "UsuarioCliente", new { area = "" }, new { @class = "btn btn-primary btn-lg" })
+    </div>
+}
+

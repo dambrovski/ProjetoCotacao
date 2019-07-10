@@ -1,0 +1,36 @@
+﻿@model List<ProjetoCotacao2.Models.UsuarioCliente>
+
+@{
+    ViewBag.Title = "Usuario Cliente";
+}
+
+<h2>Index</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            Id Usuario
+        </th>
+        <th>
+            Nome Usuario:
+        </th>
+        <th>
+            Email: 
+        </th>
+    </tr>
+
+    @foreach (ProjetoCotacao2.Models.UsuarioCliente usuario in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => usuario.IDUsuarioCliente)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => usuario.Nome_Cliente)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => usuario.Email_Cliente)
+            </td>
+        </tr>
+    }
+</table>

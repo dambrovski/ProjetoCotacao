@@ -1,0 +1,162 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Sistema Alimentos/Cotacao</title>
+    <link href="~/Content/style.css" rel="stylesheet" type="text/css" />
+    <script src="~/Scripts/modernizr-2.6.2.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+</head>
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-info">
+        <i class="fa fa-slideshare fa-2x m-1" aria-hidden="true"></i>
+        <a class="navbar-brand" href="#"> Sistema</a>
+
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#conteudoNavbarSuportado" aria-controls="conteudoNavbarSuportado" aria-expanded="false" aria-label="Alterna navegação">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="conteudoNavbarSuportado">
+
+                @if (Request.IsAuthenticated)
+                {
+                    <ul class="navbar-nav mr-auto">
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <i class="fa fa-user"></i> <b>Usuário</b>
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <div class="dropdown-item">
+                                    @Html.ActionLink("Home", "Index", "UsuarioCliente", new { area = "" }, new { @class = "navbar-brand" })
+                                </div>
+                                <div class="dropdown-item">
+                                    @Html.ActionLink("Lista de Usuários", "Lista", "UsuarioCliente", new { area = "" }, new { @class = "navbar-brand" })
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <i class="fa fa-cutlery"></i> <b>Alimento</b>
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <div class="dropdown-item">
+                                    @Html.ActionLink("Listar Alimentos", "Index", "Alimento", new { area = "" }, new { @class = "navbar-brand" })
+                                </div>
+                                <div class="dropdown-item dark">
+                                    @Html.ActionLink("Cadastrar Alimentos", "Create", "Alimento", new { area = "" }, new { @class = "navbar-brand" })
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <i class="fa fa-pencil"></i>  <b>Categoria</b>
+                            </a>
+
+
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <div class="dropdown-item">
+                                    @Html.ActionLink("Listar Categorias", "Index", "Categoria", new { area = "" }, new { @class = "navbar-brand" })
+                                </div>
+                                <div class="dropdown-item">
+                                    @Html.ActionLink("Cadastrar Categoria", "Create", "Categoria", new { area = "" }, new { @class = "navbar-brand" })
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <i class="fa fa-map-marker"></i> <b>Estabelecimento</b>
+                            </a>
+
+
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <div class="dropdown-item">
+                                    @Html.ActionLink("Listar Estabelecimentos", "Index", "Estabelecimento", new { area = "" }, new { @class = "navbar-brand" })
+                                </div>
+                                <div class="dropdown-item">
+                                    @Html.ActionLink("Cadastrar Estabelecimento", "Create", "Estabelecimento", new { area = "" }, new { @class = "navbar-brand" })
+                                </div>
+                                <div class="dropdown-item">
+                                    @Html.ActionLink("Listar Todos", "ListAll", "Estabelecimento", new { area = "" }, new { @class = "navbar-brand" })
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <i class="fa fa-usd"></i> <b>Cotação de Preços</b>
+                            </a>
+
+
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <div class="dropdown-item">
+                                    @Html.ActionLink("Ver Cotação", "CotacaoAlimento", "Alimento", new { area = "" }, new { @class = "navbar-brand" })
+                                </div>
+                                <div class="dropdown-item">
+                                    @Html.ActionLink("Buscar Alimentos Por Nome", "BuscaNome", "Alimento", new { area = "" }, new { @class = "navbar-brand" })
+                                </div>
+                                <div class="dropdown-item">
+                                    @Html.ActionLink("Enviar Email", "Email", "Alimento", new { area = "" }, new { @class = "navbar-brand" })
+                                </div>
+
+                            </div>
+                        </li>
+
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <i class="fa fa-sun-o"></i> <b>Previsão do Tempo</b>
+                            </a>
+
+
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <div class="dropdown-item">
+                                    @Html.ActionLink("Consultar Previsão do Tempo", "Create", "PrevisaoTempo", new { area = "" }, new { @class = "navbar-brand" })
+                                </div>
+                                <div class="dropdown-item">
+                                    @Html.ActionLink("Ver temperatura atual", "Index", "PrevisaoTempo", new { area = "" }, new { @class = "navbar-brand" })
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+
+                        <span class="bold">
+                            @Html.ActionLink("Logout", "Logout", "UsuarioCliente", new { area = "" }, new { @class = "navbar-brand" })
+                        </span>
+                }
+                else
+                {
+                    <ul class="navbar-nav mr-auto">
+                        <li class="nav-item active">
+                            @Html.ActionLink("Login", "Login", "UsuarioCliente", new { area = "" }, new { @class = "navbar-brand" })
+                        </li>
+                        <li class="nav-item">
+                            @Html.ActionLink("Registrar", "Create", "UsuarioCliente", new { area = "" }, new { @class = "navbar-brand" })
+                        </li>
+                    </ul>
+
+                }
+
+            </div>
+        </nav>
+
+        <div class="container body-content">
+            @RenderBody()
+            <hr />
+            <footer>
+                <p>&copy; @DateTime.Now.Year - Desenvolvido por Airton/Gian</p>
+            </footer>
+        </div>
+
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    </body>
+</html>

@@ -1,0 +1,18 @@
+﻿@model ProjetoCotacao2.Models.Estabelecimento
+
+@{
+    ViewBag.Title = "Detalhes";
+}
+
+<h3 class="text-center"><b>@Model.nome</b></h3>
+<div class="row">
+    <div class="col-md-12 text-center">
+        <b>ID </b> @Model.idEstabelecimento<br />
+        <b>Nome: </b> @Model.nome<br />
+        <b>Telefone: </b> @Model.telefone<br />
+        <b>Cidade: </b> @Model.cidade<br />
+        <b>Endereço: </b> @Model.endereco<br />
+        <b>CNPJ: </b> @Model.cnpj<br />
+    </div>
+
+</div>

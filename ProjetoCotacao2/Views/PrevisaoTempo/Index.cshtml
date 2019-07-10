@@ -1,0 +1,37 @@
+﻿@model ProjetoCotacao2.Models.PrevisaoTempo
+
+@{
+    ViewBag.Title = "Previsão do Tempo para Sua Cidade";
+}
+
+
+<div class="row">
+    <div class="col-md-12 mt-2">
+        <div style="border: 1px solid black;" class="">
+            <div class="text-center">
+                <span class="mt-2"><b>Informações do Tempo: </b></span>
+                <div class="">
+                    <b>Cidade: </b>@Html.DisplayFor(model => model.name)
+                </div>
+                <div class="">
+                    <b>Estado: </b>@Html.DisplayFor(model => model.state)
+                </div>
+                <div class="">
+                    <b>Temperatura: </b>@Html.DisplayFor(model => model.data.temperature)
+                </div>
+                <div class="">
+                    <b>Condição: </b>@Html.DisplayFor(model => model.data.condition)
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-9">
+    </div>
+</div>
+
+
+
+
+
+
